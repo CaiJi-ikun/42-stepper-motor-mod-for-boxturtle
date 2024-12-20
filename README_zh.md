@@ -5,3 +5,4 @@
 实际装机请使用薄42步进电机
 
 (你知道的在中国42步进电机和bmg加起来比一个36圆饼步进电机便宜)
+![IMG_20241220_195207](https://github.com/user-attachments/assets/358af745-fa1e-440f-9449-5ff83dbd3cfa)
