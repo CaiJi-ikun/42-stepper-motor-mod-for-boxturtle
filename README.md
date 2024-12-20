@@ -18,3 +18,12 @@ The picture shows a thick 42 stepper motor because I don't have a thin 42 steppe
 
 
 ![IMG_20241220_195207](https://github.com/user-attachments/assets/358af745-fa1e-440f-9449-5ff83dbd3cfa)
+
+
+bom
+d2f-5微动开关x1
+5.5mm钢珠x1
+m2x10自攻螺丝x2
+bmg挤出机x1
+42步进电机 23高x1
+m3x35杯头螺丝x3
