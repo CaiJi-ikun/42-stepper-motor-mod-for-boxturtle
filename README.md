@@ -16,7 +16,7 @@ The picture shows a thick 42 stepper motor because I don't have a thin 42 steppe
 
 
 | Name                    | Quantity | Remarks                                                                                  |
-|-------------------------|----------|------------------------------------------------------------------------------------------|
+|-------------------------|:----------:|------------------------------------------------------------------------------------------|
 | Omron D2F-5 micro switch | 1        | Can be replaced with other micro switches, ensure proper spacing.                        |
 | 5.5mm steel ball        | 1        | Used for the print head cutter, there should be some left.                               |
 | M2x10 self-tapping screws | 2       | Leftovers from assembly.                                                                 |
