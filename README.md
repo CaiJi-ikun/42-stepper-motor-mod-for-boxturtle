@@ -1,5 +1,5 @@
 # 42-stepper-motor-mod-for-boxturtle
-[中文](README_zh.md).
+[中文](README_zh.md)
 
 
 |English is not my native language
