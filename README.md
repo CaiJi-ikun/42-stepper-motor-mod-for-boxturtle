@@ -2,9 +2,9 @@
 [中文](README_zh.md)
 
 
-|English is not my native language
+!English is not my native language!
 
-|All English comes from translation software
+!All English comes from translation software!
 
 This is a mod that uses a 42 step motor and a regular BMG extruder to replace the extruder part of Boxturtle
 
