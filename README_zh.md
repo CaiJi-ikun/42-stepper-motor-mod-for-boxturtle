@@ -1,4 +1,4 @@
-[English](README.mc)
+[English](README.md)
 
 这是一个使用42步进电机和普通bmg挤出机替代boxturtle的挤出机部分的mod   
 此mod未经过实际测试
