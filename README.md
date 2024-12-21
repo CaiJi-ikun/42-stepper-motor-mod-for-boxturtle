@@ -1,4 +1,4 @@
-# 42-stepper-motor-mod-for-boxturtle
+# 42 Stepper Motor Mod For Boxturtle
 [中文](README_zh.md)
 
 
