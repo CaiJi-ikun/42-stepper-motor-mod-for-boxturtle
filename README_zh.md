@@ -10,7 +10,7 @@
 
 实际装机请使用薄42步进电机
 
-(你知道的在中国1个36圆饼能买3个42步进电机了)
+
 ![IMG_20241220_195207](https://github.com/user-attachments/assets/358af745-fa1e-440f-9449-5ff83dbd3cfa)
 
 
